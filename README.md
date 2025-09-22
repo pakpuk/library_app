@@ -1,16 +1,15 @@
-# library_app
+# 📚 Library Management App
 
-A new Flutter project.
+A mobile app to manage book collections, lending, and user accounts.
 
-## Getting Started
+## ✨ Features
+- 📖 Browse and search library catalog  
+- 👤 User registration & login  
+- 📅 Borrow & return books  
+- 📝 Keep track of reading history  
+- 🔔 Notifications for due dates  
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter (Dart)  
+- Firebase (backend)  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
