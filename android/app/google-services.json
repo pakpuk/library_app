@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "53229438855",
+    "firebase_url": "https://fir-firsttst-default-rtdb.firebaseio.com",
+    "project_id": "fir-firsttst",
+    "storage_bucket": "fir-firsttst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53229438855:android:37c413a72c0d5e8f4d7522",
+        "android_client_info": {
+          "package_name": "com.example.library_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOHTpnMGTv2ql7-iKs3sgqb4DFVcBezE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
